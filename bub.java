@@ -1,4 +1,4 @@
-//bubbel sort
+//bubbel sort once
 import java.util.*;
 public class bub {
     public static void main(String[] args) {
